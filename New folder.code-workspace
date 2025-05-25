@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Users/satendra kumar/AppData/Local/Programs/Microsoft VS Code/New folder"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "C:"
+	}
+}
